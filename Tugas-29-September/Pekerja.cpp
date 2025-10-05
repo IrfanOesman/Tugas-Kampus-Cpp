@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// IRFAN OESMAN ASA
 int main(){
 	long jam,menit,detik;
 	
